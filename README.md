@@ -13,7 +13,7 @@ SomeWhere/TestMethod.txt
 SomeWhere/TrainAssertion.txt
 SomeWhere/TestAssertion.txt
 SomeWhere/ValMethod.txt
-SomeWhere/ValMethod.txt
+SomeWhere/ValAssertion.txt
 ```
 
 ### Step2: Retrieval
